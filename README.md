@@ -9,7 +9,7 @@
 
 &nbsp;
 ## 👷‍♂️ FACTS
-* 🔋 I’m interested in IT-Security
+* 🚀 I’m interested in IT-Security
 * 🔭 I’m currently working on building a portfolio Website
 * 🌱 I’m currently learning Domain Driven Design
 
