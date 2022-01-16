@@ -2,11 +2,13 @@
     <img width="100%" height="auto" src="images/test.png"/>
 </a>
 
-<p align="center">My name is Luca Küchler and I'm a Bachelor student at University of Applied Science in Darmstadt for Information Technologies.</p>
+
 
 ## 🙋‍♂️ ABOUT ME
+<p align="center">My name is Luca Küchler and I'm a Bachelor student at University of Applied Science in Darmstadt for Information Technologies.</p>
 
 
+## 👷‍♂️ FACTS
 #### 🔭 I’m currently working on ...
 #### 🌱 I’m currently learning ...
 #### 📫 How to reach me: ...
