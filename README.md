@@ -1,5 +1,5 @@
 <a href="#">
-    <img width="100%" height="auto" src="images/test.png"/>
+    <img width="100%" height="auto" src="images/welcome.png"/>
 </a>
 
 ## 🙋‍♂️ ABOUT ME
