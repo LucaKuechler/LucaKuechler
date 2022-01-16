@@ -7,7 +7,7 @@
 ## 🙋‍♂️ ABOUT ME
 <p align="center">My name is Luca Küchler and I'm a Bachelor student at University of Applied Science in Darmstadt for Information Technologies.</p>
 
-
+&nbsp;
 ## 👷‍♂️ FACTS
 #### 🔭 I’m currently working on ...
 #### 🌱 I’m currently learning ...
