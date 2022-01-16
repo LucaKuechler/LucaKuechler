@@ -1,4 +1,4 @@
-<a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=developer&position=3&from_view=search">
+<a href="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#query=developer&position=3&from_view=search" target="blank">
     <img width="100%" height="auto" src="images/welcome.png"/>
 </a>
 
