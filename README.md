@@ -9,8 +9,11 @@
 
 &nbsp;
 ## 👷‍♂️ FACTS
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
+* 🔋 I’m interested in IT-Security
+* 🔭 I’m currently working on building a portfolio Website
+* 🌱 I’m currently learning Domain Driven Design
+
+
 📫 How to reach me: ...
 
 <!--<a href="https://storyset.com/web">Web illustrations by Storyset</a>-->
