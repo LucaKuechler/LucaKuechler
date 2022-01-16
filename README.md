@@ -27,9 +27,9 @@
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="linux" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="Wordpress" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="Wordpress" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="Traefik" width="40" height="40"/>
 </p>
 
