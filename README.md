@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="#">
-    <img src="images/home.svg"/>
+    <img widht="60%" height="auto" src="images/home.svg"/>
 </a>
 <!--<a href="https://storyset.com/web">Web illustrations by Storyset</a>-->
 
