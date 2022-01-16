@@ -1,7 +1,11 @@
 <a href="#">
     <img width="100%" height="auto" src="images/test.png"/>
 </a>
----
+
+## ABOUT ME
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
 
 <!--<a href="https://storyset.com/web">Web illustrations by Storyset</a>-->
 
