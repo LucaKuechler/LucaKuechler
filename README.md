@@ -12,9 +12,7 @@
 * 🚀 I’m interested in IT-Security
 * 🔭 I’m currently working on building a portfolio Website
 * 🌱 I’m currently learning Domain Driven Design
-
-
-📫 How to reach me: ...
+* 📫 How to reach me: lucakuechler.business(at)gmail.com
 
 <!--<a href="https://storyset.com/web">Web illustrations by Storyset</a>-->
 
